@@ -6,7 +6,7 @@ export const AWS_CONFIG = {
     secretAccessKey: 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEE'
 };
 
-const AWS_KEY = 'AKIAIOSFODNN7EXAMPLEVE';
+const AWS_KEY = 'AKIAIOSFODNN7EXAMPLEVUE';
 
 export function getAwsConfig() {
     return AWS_CONFIG;
