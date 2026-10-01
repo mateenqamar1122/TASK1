@@ -3,7 +3,7 @@ export const AWS_CONFIG = {
     region: 'us-east-1',
     // VULNERABILITY: Hardcoded AWS Credentials
     accessKeyId: 'AKIAIOSFODNN7EXAMPPLE',
-    secretAccessKey: 'wJalrXUtnFEMI/K7MDYEfDPLNG'
+    secretAccessKey: 'wJalrXUtnFEMI/K7MDYEfDPLG'
 };
 
 const AWS_KEY = 'AKIAIOSFODNN7EXAMPLEVUTE';
